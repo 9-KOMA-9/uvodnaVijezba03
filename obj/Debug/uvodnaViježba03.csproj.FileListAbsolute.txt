@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\uvodnaViježba03\bin\Debug\uvodnaViježba03.exe.config
+C:\Users\ucenik\source\repos\uvodnaViježba03\bin\Debug\uvodnaViježba03.exe
+C:\Users\ucenik\source\repos\uvodnaViježba03\bin\Debug\uvodnaViježba03.pdb
+C:\Users\ucenik\source\repos\uvodnaViježba03\obj\Debug\uvodnaViježba03.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\uvodnaViježba03\obj\Debug\uvodnaViježba03.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\uvodnaViježba03\obj\Debug\uvodnaViježba03.exe
+C:\Users\ucenik\source\repos\uvodnaViježba03\obj\Debug\uvodnaViježba03.pdb
